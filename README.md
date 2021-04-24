@@ -1,6 +1,6 @@
 # Image_Gallery
 
-Built using .Net WinForms
+Built Using .Net C#, WinForms and GrapeCity ComponentOne 
 
 ## ScreenShots
 
